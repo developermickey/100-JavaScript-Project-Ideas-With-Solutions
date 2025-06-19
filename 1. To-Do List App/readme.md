@@ -5,7 +5,6 @@ A simple, clean, and responsive **To-Do List** web application built using **HTM
 
 ![screenshot](./screenshot.png) <!-- Optional: Add a real screenshot if you have one -->
 
----
 
 ## 🔧 Features
 
@@ -15,14 +14,13 @@ A simple, clean, and responsive **To-Do List** web application built using **HTM
 - 💾 Persistent data with `localStorage`
 - 🎨 Modern and responsive UI
 
----
 
 ## 🚀 Demo
 
 Live Demo: [Click Here](https://your-live-demo-link.com)  
 *(Replace with GitHub Pages or Vercel link if hosted)*
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -30,7 +28,7 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 - **CSS3** (Responsive design with Flexbox)
 - **Vanilla JavaScript** (DOM manipulation, localStorage)
 
----
+
 
 ## 📁 Project Structure
 
@@ -42,8 +40,6 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 └── README.md         # This file
 
 
-
----
 
 ## 💻 How to Run Locally
 
@@ -60,7 +56,6 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 
 3. **Open `index.html` in your browser**
 
----
 
 ## ✨ Screenshots
 
@@ -70,7 +65,7 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 
 *(Optional — add screenshots inside `/screenshots` folder)*
 
----
+
 
 ## 📌 Future Enhancements
 
@@ -79,19 +74,16 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 * [ ] Dark mode
 * [ ] User authentication & cloud sync
 
----
 
 ## 🤝 Contributing
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
----
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
 ## 👨‍💻 Author
 
