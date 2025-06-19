@@ -1,10 +1,4 @@
-Absolutely! Here's a professional and polished `README.md` file for your **To-Do List App**, perfect for uploading to GitHub:
 
----
-
-### ✅ `README.md`
-
-```markdown
 # 📝 To-Do List Web App
 
 A simple, clean, and responsive **To-Do List** web application built using **HTML, CSS, and JavaScript**. It allows users to add, complete, and delete tasks — with all data saved in **localStorage** for persistent tracking.
@@ -106,13 +100,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 📧 [info@technicalmickey.com](mailto:info@technicalmickey.com)
 🔗 [technicalmickey.com](https://technicalmickey.com)
 
-```
 
----
 
-Let me know if you'd like me to include:
-- A dark mode toggle
-- Screenshot images
-- GitHub Pages deployment steps  
-I can tailor it further for you.
-```
+
