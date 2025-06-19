@@ -34,7 +34,6 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 
 ## 📁 Project Structure
 
-```
 
 /todo-app/
 ├── index.html        # Main HTML file
@@ -42,7 +41,7 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 ├── main.js           # JavaScript logic
 └── README.md         # This file
 
-````
+
 
 ---
 
@@ -51,7 +50,7 @@ Live Demo: [Click Here](https://your-live-demo-link.com)
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
-````
+    ````
 
 2. **Navigate to the project folder**
 
